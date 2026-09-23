@@ -1,0 +1,11 @@
+id,nombre,area,dias_retraso
+T-101,Diseño de arquitectura,Desarrollo,0
+T-102,Integración de pagos,Desarrollo,5
+T-103,Pruebas QA sprint 14,QA,3
+T-104,Documentación API,Documentación,0
+T-105,Migración base de datos,Infraestructura,8
+T-106,Revisión de seguridad,Seguridad,1
+T-107,Diseño UI checkout,Diseño,0
+T-108,Configuración CI/CD,Infraestructura,0
+T-109,Pruebas de carga,QA,2
+T-110,Onboarding proveedor pagos,Compras,6
